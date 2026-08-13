@@ -92,11 +92,17 @@ Aplicação de inteligência geoespacial para explorar pontes e outras OAEs, int
 
 `GeoPandas` `Folium` `Shapely` `Streamlit` `scikit-learn`
 
-### [Painel de Desempenho e Produtividade - SEI](https://github.com/wallasba/painel-sei)
+### [Modelagem com Algoritmos de Clusterização](https://github.com/wallasba/pd-clusters)
 
-Dashboard que converte planilhas operacionais em indicadores de volume, produtividade e prazos, com carga, limpeza, deduplicação e filtros. Demonstra **automação, analytics e orientação ao usuário**.
+Projeto de ciência de dados dedicado à descoberta de estruturas e segmentos em dados não rotulados. Explora preparação de dados, algoritmos de agrupamento, interpretação de perfis e comunicação visual em uma aplicação interativa.
 
-`Python` `Pandas` `Streamlit` `Plotly`
+`Python` `Pandas` `scikit-learn` `K-Means` `Clusterização` `Streamlit`
+
+### [Validação de Algoritmos de Clusterização](https://github.com/wallasba/pd-validacao-clusters)
+
+Projeto voltado à avaliação crítica de agrupamentos, comparando algoritmos e critérios de validação para verificar estabilidade, separação e coerência dos clusters. Complementa a modelagem com foco em **qualidade, comparação e justificativa metodológica**.
+
+`Python` `scikit-learn` `Métricas de cluster` `Validação` `Visualização de dados`
 
 ## Potenciais de evolução
 
