@@ -2,10 +2,11 @@
 
 # Wallas Borges Araújo
 
-### Cientista de Dados · Engenheiro de Machine Learning · Especialista em Inteligência Artificial
+### Engenheiro Civil · Mestre em Estruturas · Cientista de Dados · Machine Learning & Inteligência Artificial
 
-Construo soluções de dados e IA de ponta a ponta: da descoberta do problema ao deploy, monitoramento e geração de valor.
+Uno engenharia, ciência de dados e inteligência artificial para transformar problemas complexos em soluções quantitativas, confiáveis e aplicáveis.
 
+[![Site](https://img.shields.io/badge/Site-DecifrIA-6D28D9?style=for-the-badge&logo=netlify&logoColor=white)](https://decifria.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallasb85@gmail.com)
 [![Localização](https://img.shields.io/badge/Brasília-DF-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Bras%C3%ADlia)
@@ -16,9 +17,9 @@ Construo soluções de dados e IA de ponta a ponta: da descoberta do problema ao
 
 ## Perfil profissional
 
-Sou **Cientista de Dados e Engenheiro de Machine Learning**, com atuação em **Inteligência Artificial, Deep Learning, IA Generativa e MLOps**. Desenvolvo projetos end-to-end com Python, combinando modelagem, engenharia de dados, experimentação, APIs, interfaces analíticas e monitoramento.
+Minha identidade profissional está na interseção entre **Engenharia Civil e Ciência de Dados**. Sou engenheiro civil, **mestre em Estruturas e Construção Civil**, cientista de dados e engenheiro de machine learning, com atuação em **Inteligência Artificial, Deep Learning, IA Generativa e MLOps**.
 
-Minha formação multidisciplinar - Engenharia Civil, Matemática, Mestrado em Estruturas, Especialização em Ciência de Dados e MIT em Engenharia de Machine Learning e Deep Learning - me permite traduzir problemas complexos em soluções quantitativas, explicáveis e aplicáveis.
+Desenvolvo projetos end-to-end com Python, combinando análise, modelagem, engenharia de dados, experimentação, APIs, interfaces analíticas e monitoramento. Minha formação complementar em Matemática, Ciência de Dados, Machine Learning e Deep Learning fortalece a capacidade de traduzir fenômenos físicos e problemas reais em modelos explicáveis e produtos de dados.
 
 Atualmente exerço **liderança técnica** em uma equipe multidisciplinar de assessoria ao DNIT, trabalhando com estruturação, integração e análise de bases complexas para apoiar planejamento e tomada de decisão. Engenharia, infraestrutura e inteligência geoespacial são diferenciais de domínio - minha atuação em dados e IA é ampla e multissetorial.
 
@@ -111,6 +112,6 @@ Problema real → Dados confiáveis → Experimentos reproduzíveis → Modelo a
 
 ### Vamos transformar dados em decisões e produtos de IA?
 
-[LinkedIn](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139) · [E-mail](mailto:wallasb85@gmail.com) · Brasília, DF
+[Site](https://decifria.netlify.app) · [LinkedIn](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139) · [E-mail](mailto:wallasb85@gmail.com) · Brasília, DF
 
 </div>
