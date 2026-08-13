@@ -12,7 +12,7 @@ Desenvolvo soluções orientadas por dados - da exploração e modelagem ao depl
 
 ## Sobre mim
 
-Sou cientista de dados e engenheiro de machine learning, com formação multidisciplinar em Inteligência Artificial, Engenharia Civil e Matemática. Sou mestre em Estruturas e Construção Civil, especialista em Ciência de Dados e Big Data e possuo MIT em Engenharia de IA, Machine Learning e Deep Learning pela Faculdade Infnet.
+Sou mestre em estruturas e construção civil, engenheiro civil, cientista de dados e engenheiro de machine learning, com formação multidisciplinar em Inteligência Artificial, Engenharia Civil e Matemática. Sou mestre em Estruturas e Construção Civil, especialista em Ciência de Dados e Big Data e possuo MIT em Engenharia de IA, Machine Learning e Deep Learning pela Faculdade Infnet.
 
 Desenvolvo projetos end-to-end com Python, machine learning, deep learning, IA generativa, RAG, análise geoespacial e produtos de dados. Minha experiência em infraestrutura de transportes e liderança técnica amplia essa atuação com conhecimento de domínio, visão de negócio e capacidade de transformar problemas complexos em soluções analíticas.
 
