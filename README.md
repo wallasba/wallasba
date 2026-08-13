@@ -2,66 +2,116 @@
 
 # Wallas Borges Araújo
 
-### Engenheiro Civil · Mestre em Estruturas · Cientista de Dados · Machine Learning & Inteligência Artificial
+### Engenharia Civil & Estruturas · Ciência de Dados · Machine Learning · Inteligência Artificial
 
-Uno engenharia, ciência de dados e inteligência artificial para transformar problemas complexos em soluções quantitativas, confiáveis e aplicáveis.
+Transformo fenômenos, dados e desafios reais em modelos, sistemas analíticos e produtos de IA confiáveis.
 
-[![Site](https://img.shields.io/badge/Site-DecifrIA-6D28D9?style=for-the-badge&logo=netlify&logoColor=white)](https://decifria.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallasb85@gmail.com)
-[![Localização](https://img.shields.io/badge/Brasília-DF-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Bras%C3%ADlia)
+[![DecifrIA](https://img.shields.io/badge/DecifrIA-Entenda_%C2%B7_Experimente_%C2%B7_Crie-071321?style=for-the-badge&logo=netlify&logoColor=2DD4BF)](https://decifria.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-FBBF24?style=for-the-badge&logo=gmail&logoColor=071321)](mailto:wallasb85@gmail.com)
 
 </div>
 
 ---
 
-## Perfil profissional
+## Uma identidade, quatro dimensões
 
-Minha identidade profissional está na interseção entre **Engenharia Civil e Ciência de Dados**. Sou engenheiro civil, **mestre em Estruturas e Construção Civil**, cientista de dados e engenheiro de machine learning, com atuação em **Inteligência Artificial, Deep Learning, IA Generativa e MLOps**.
+Minha identidade profissional nasce da conexão entre **Engenharia Civil**, **Mestrado em Estruturas**, **Ciência de Dados** e **Inteligência Artificial**. Não trato essas áreas como carreiras separadas: uso raciocínio de engenharia, base matemática, método científico e computação para compreender sistemas complexos e construir soluções aplicáveis.
 
-Desenvolvo projetos end-to-end com Python, combinando análise, modelagem, engenharia de dados, experimentação, APIs, interfaces analíticas e monitoramento. Minha formação complementar em Matemática, Ciência de Dados, Machine Learning e Deep Learning fortalece a capacidade de traduzir fenômenos físicos e problemas reais em modelos explicáveis e produtos de dados.
+| Dimensão | O que levo para os projetos |
+|---|---|
+| **Engenharia & Estruturas** | Compreensão de sistemas físicos, infraestrutura, desempenho, risco, manutenção e decisões com responsabilidade técnica |
+| **Dados & Matemática** | Estatística, modelagem, análise exploratória, qualidade de dados, validação e comunicação quantitativa |
+| **Machine Learning & IA** | Modelos preditivos, deep learning, IA generativa, NLP, RAG, XAI, APIs, MLOps e monitoramento |
+| **Pesquisa, Liderança & Educação** | Investigação científica, coordenação multidisciplinar, tomada de decisão e tradução de temas complexos em percursos claros |
 
-Atualmente exerço **liderança técnica** em uma equipe multidisciplinar de assessoria ao DNIT, trabalhando com estruturação, integração e análise de bases complexas para apoiar planejamento e tomada de decisão. Engenharia, infraestrutura e inteligência geoespacial são diferenciais de domínio - minha atuação em dados e IA é ampla e multissetorial.
+Atualmente exerço **liderança técnica** em uma equipe multidisciplinar de assessoria ao DNIT, trabalhando com estruturação, integração e análise de bases complexas para apoiar planejamento e decisões sobre infraestrutura. Paralelamente, desenvolvo soluções em IA e a **DecifrIA**, iniciativa educacional com o compromisso de tornar código, dados e inteligência artificial compreensíveis e praticáveis.
 
-> Meu objetivo é transformar dados brutos e desafios reais em produtos de IA confiáveis, mensuráveis e úteis.
+> Engenharia é meu domínio de origem. Dados e IA ampliam o alcance das soluções que posso construir.
 
-## Especialidades
+## Onde posso gerar valor
 
-| Ciência de Dados | Machine Learning & Deep Learning | IA Generativa | MLOps & Produtos de Dados |
-|---|---|---|---|
-| Análise exploratória, estatística, feature engineering, modelagem e visualização | Classificação, regressão, clustering, redes neurais, séries temporais e XAI | LLMs, RAG, embeddings, busca vetorial, prompting e NLP | Pipelines, APIs, testes, CI/CD, deploy, experiment tracking e monitoramento de drift |
+### 1. Ciência de Dados e produtos analíticos
 
-## Projetos selecionados
+- Exploração, limpeza, integração e qualidade de dados
+- Estatística, visualização e comunicação de resultados
+- Dashboards, indicadores, automação de relatórios e apoio à decisão
+- SQL, dados espaciais, grandes volumes e pipelines reproduzíveis
+
+### 2. Machine Learning, Deep Learning e MLOps
+
+- Classificação, regressão, clustering e séries temporais
+- Redes neurais, modelos explicáveis e tratamento de dados desbalanceados
+- Experiment tracking, testes, APIs, CI/CD, deploy e monitoramento de drift
+- Transformação de notebooks em aplicações e serviços utilizáveis
+
+### 3. IA Generativa e gestão do conhecimento
+
+- LLMs, embeddings, busca semântica e arquiteturas RAG
+- Assistentes fundamentados em documentos e bases especializadas
+- Análise de literatura, grafos de conhecimento e apoio à pesquisa
+- Automação responsável de documentos, relatórios e fluxos de trabalho
+
+### 4. Engenharia digital, GeoAI e infraestrutura inteligente
+
+- Inteligência geoespacial com QGIS, GeoPandas e PostGIS
+- Gestão de ativos, manutenção preditiva e priorização de investimentos
+- Modelagem de condição de pontes, pavimentos e outros sistemas físicos
+- Dados de transportes, segurança viária e planejamento territorial
+
+### 5. Pesquisa, educação e liderança técnica
+
+- Pesquisa aplicada, desenho experimental e validação de hipóteses
+- Liderança de equipes multidisciplinares e comunicação com decisores
+- Materiais educacionais, notebooks e trilhas de aprendizagem
+- Tradução de conceitos técnicos sem jargão e sem promessas exageradas
+
+## Projetos que comprovam essa integração
 
 ### [Assistente de Pesquisa Científica com RAG](https://github.com/wallasba/pd-sistemas-cognitivos)
 
-Aplicação end-to-end para coleta e exploração de literatura científica, análise bibliométrica, busca semântica e respostas fundamentadas no corpus. Integra LLM, embeddings, recuperação vetorial e grafos em uma interface guiada.
+Sistema end-to-end para coletar e explorar literatura científica, executar análise bibliométrica, recuperar contexto por similaridade semântica e gerar respostas fundamentadas no corpus. Demonstra **IA generativa, NLP, grafos, pesquisa e produto de dados**.
 
 `Python` `Llama` `Groq` `FAISS` `Sentence Transformers` `NetworkX` `Streamlit`
 
-### [Bridge Condition Prediction - Pipeline de MLOps](https://github.com/wallasba/bridge_ml_pipeline)
+### [Bridge Condition Prediction - MLOps para pontes](https://github.com/wallasba/bridge_ml_pipeline)
 
-Pipeline completo para classificação da condição de pontes a partir do National Bridge Inventory. Inclui treino e tuning, experiment tracking, API REST, dashboard, testes, CI/CD e monitoramento de drift. O modelo selecionado alcançou **recall de 90,45%** para apoiar a identificação de estruturas críticas.
+Pipeline completo para classificar a condição de pontes a partir do National Bridge Inventory. Reúne engenharia de atributos, tuning, experiment tracking, API, dashboard, testes, CI/CD e drift. O modelo selecionado alcançou **recall de 90,45%**, priorizando a identificação de estruturas críticas.
 
 `scikit-learn` `MLflow` `Flask` `Streamlit` `Evidently` `Pytest` `GitHub Actions`
 
 ### [Predição de Manutenção de Pavimentos](https://github.com/wallasba/mini-projeto-pavement-dataset)
 
-Produto analítico para explorar dados de pavimentos e estimar necessidades de manutenção com deep learning. Reúne processamento, inferência, avaliação de modelos, explicabilidade e visualização interativa.
+Produto analítico que combina dados de pavimentos, deep learning, avaliação, explicabilidade e inferência interativa. Demonstra a aplicação de **IA a sistemas físicos e gestão de ativos**.
 
 `TensorFlow` `Keras` `scikit-learn` `SHAP` `Streamlit` `Plotly`
 
 ### [Mapa Interativo de Obras de Arte Especiais](https://github.com/wallasba/mapa_oae_streamlit)
 
-Aplicação de inteligência geoespacial para exploração de pontes e outras OAEs, combinando processamento espacial, mapas interativos e recursos analíticos em uma interface web.
+Aplicação de inteligência geoespacial para explorar pontes e outras OAEs, integrando processamento espacial, mapas e recursos analíticos. Demonstra **GeoAI, infraestrutura e visualização**.
 
 `GeoPandas` `Folium` `Shapely` `Streamlit` `scikit-learn`
 
 ### [Painel de Desempenho e Produtividade - SEI](https://github.com/wallasba/painel-sei)
 
-Dashboard para transformar planilhas operacionais em indicadores de volume, produtividade, prazos e distribuição de processos. Inclui carga de arquivos, limpeza, deduplicação e filtros interativos.
+Dashboard que converte planilhas operacionais em indicadores de volume, produtividade e prazos, com carga, limpeza, deduplicação e filtros. Demonstra **automação, analytics e orientação ao usuário**.
 
 `Python` `Pandas` `Streamlit` `Plotly`
+
+## Potenciais de evolução
+
+Estas são frentes coerentes com minha formação e os projetos já construídos. Representam uma agenda de desenvolvimento - não alegações de produtos concluídos.
+
+```text
+Estruturas + dados de inspeção → prognóstico, risco e manutenção preditiva
+Imagens de ativos              → visão computacional para apoio a inspeções
+Sensores + modelos físicos     → monitoramento estrutural e gêmeos digitais
+Documentos técnicos           → RAG, extração de conhecimento e conformidade
+Geodados + redes               → GeoAI, mobilidade, logística e resiliência territorial
+Pesquisa + educação          → ferramentas e trilhas para democratizar IA
+```
+
+Setores em que essa combinação pode gerar valor: **infraestrutura, transportes, construção, energia, saneamento, mineração, logística, seguros, setor público, pesquisa e educação tecnológica**.
 
 ## Stack tecnológica
 
@@ -80,38 +130,31 @@ Dashboard para transformar planilhas operacionais em indicadores de volume, prod
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=071321)
 
 </div>
 
-## Como desenvolvo uma solução de IA
+## Formação e credenciais
 
-```text
-Problema real → Dados confiáveis → Experimentos reproduzíveis → Modelo avaliado
-             → Produto utilizável → Deploy e monitoramento → Aprendizado contínuo
-```
-
-- Defino o problema, o usuário e a métrica de sucesso antes do modelo.
-- Trato qualidade, rastreabilidade, leakage, desbalanceamento e explicabilidade como partes da solução.
-- Transformo notebooks em pipelines, APIs, dashboards e aplicações reproduzíveis.
-- Comunico resultados de forma clara para públicos técnicos e decisores.
-
-## Formação e diferenciais
-
+- **Mestrado em Estruturas e Construção Civil** - Universidade de Brasília (UnB)
 - **MIT em Engenharia de Machine Learning e Deep Learning** - Faculdade Infnet
 - **Especialização em Ciência de Dados e Big Data** - Faculdade Iguaçu
-- **Mestrado em Estruturas e Construção Civil** - Universidade de Brasília (UnB)
-- **Graduação em Matemática** - Faculdade UniBF
 - **Graduação em Engenharia Civil** - CEULP/ULBRA
-- Experiência em liderança técnica, pesquisa científica, infraestrutura de transportes, segurança viária e inteligência geoespacial
+- **Graduação em Matemática** - Faculdade UniBF
 - Acreditações iRAP em **Analysis and Reporting** e **Road Attribute Coding**
+
+## DecifrIA - tecnologia como percurso legível
+
+A [DecifrIA](https://decifria.netlify.app) é minha frente de educação tecnológica. A proposta é conduzir pessoas por uma rota progressiva - **código → dados → inteligência artificial** - com clareza, prática, fontes verificáveis, uso responsável e limites honestos.
+
+**Entenda. Experimente. Crie.**
 
 ---
 
 <div align="center">
 
-### Vamos transformar dados em decisões e produtos de IA?
+### Vamos conectar engenharia, dados e inteligência artificial?
 
-[Site](https://decifria.netlify.app) · [LinkedIn](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139) · [E-mail](mailto:wallasb85@gmail.com) · Brasília, DF
+[DecifrIA](https://decifria.netlify.app) · [LinkedIn](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139) · [E-mail](mailto:wallasb85@gmail.com) · Brasília, DF
 
 </div>
