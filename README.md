@@ -35,8 +35,6 @@ Minhas principais frentes de interesse são:
 | [Assistente de Pesquisa Científica com RAG](https://github.com/wallasba/pd-sistemas-cognitivos) | Aplicação end-to-end para coleta e análise de literatura, busca semântica, recuperação de contexto e respostas fundamentadas com LLM. | Python, Llama, Groq, FAISS, Sentence Transformers, NetworkX, Streamlit |
 | [Bridge Condition Prediction](https://github.com/wallasba/bridge_ml_pipeline) | Pipeline completo para classificação da condição de pontes, com foco em recall da classe crítica, API, interface, testes e monitoramento de drift. | Python, scikit-learn, MLflow, Flask, Streamlit, Evidently, Pytest, GitHub Actions |
 | [Predição de Manutenção de Pavimentos](https://github.com/wallasba/mini-projeto-pavement-dataset) | Aplicação de deep learning para análise e predição de necessidades de manutenção de pavimentos. | TensorFlow, Keras, scikit-learn, SHAP, Streamlit, Plotly |
-| [Mapa Interativo de OAEs](https://github.com/wallasba/mapa_oae_streamlit) | Exploração geoespacial de Obras de Arte Especiais em uma aplicação web interativa. | GeoPandas, Folium, Shapely, Streamlit, scikit-learn |
-| [Painel de Desempenho SEI](https://github.com/wallasba/painel-sei) | Dashboard para acompanhamento de processos, produtividade, prazos e indicadores operacionais. | Python, Pandas, Streamlit, Plotly |
 
 ## Competências
 
