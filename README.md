@@ -155,8 +155,6 @@ A [DecifrIA](https://wallasba.github.io/ia-para-todos/) é minha frente de educa
 
 **Entenda. Experimente. Crie.**
 
-**DecifrIA - família de e-books "Do Código à IA":** [wallasba.github.io/ia-para-todos](https://wallasba.github.io/ia-para-todos/)
-
 ---
 
 <div align="center">
