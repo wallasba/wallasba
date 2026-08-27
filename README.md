@@ -6,7 +6,7 @@
 
 Transformo fenômenos, dados e desafios reais em modelos, sistemas analíticos e produtos de IA confiáveis.
 
-[![DecifrIA](https://img.shields.io/badge/DecifrIA-Entenda_%C2%B7_Experimente_%C2%B7_Crie-071321?style=for-the-badge&logo=netlify&logoColor=2DD4BF)](https://decifria.netlify.app)
+[![DecifrIA](https://img.shields.io/badge/DecifrIA-Entenda_%C2%B7_Experimente_%C2%B7_Crie-071321?style=for-the-badge&logo=github&logoColor=2DD4BF)](https://wallasba.github.io/ia-para-todos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-FBBF24?style=for-the-badge&logo=gmail&logoColor=071321)](mailto:wallasb85@gmail.com)
 
@@ -151,9 +151,11 @@ Setores em que essa combinação pode gerar valor: **infraestrutura, transportes
 
 ## DecifrIA - tecnologia como percurso legível
 
-A [DecifrIA](https://decifria.netlify.app) é minha frente de educação tecnológica. A proposta é conduzir pessoas por uma rota progressiva - **código → dados → inteligência artificial** - com clareza, prática, fontes verificáveis, uso responsável e limites honestos.
+A [DecifrIA](https://wallasba.github.io/ia-para-todos/) é minha frente de educação tecnológica. A proposta é conduzir pessoas por uma rota progressiva - **código → dados → inteligência artificial** - com clareza, prática, fontes verificáveis, uso responsável e limites honestos.
 
 **Entenda. Experimente. Crie.**
+
+**DecifrIA - família de e-books "Do Código à IA":** [wallasba.github.io/ia-para-todos](https://wallasba.github.io/ia-para-todos/)
 
 ---
 
@@ -161,6 +163,6 @@ A [DecifrIA](https://decifria.netlify.app) é minha frente de educação tecnol�
 
 ### Vamos conectar engenharia, dados e inteligência artificial?
 
-[DecifrIA](https://decifria.netlify.app) · [LinkedIn](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139) · [E-mail](mailto:wallasb85@gmail.com) · Brasília, DF
+[DecifrIA](https://wallasba.github.io/ia-para-todos/) · [LinkedIn](https://www.linkedin.com/in/wallas-borges-ara%C3%BAjo-993a97139) · [E-mail](mailto:wallasb85@gmail.com) · Brasília, DF
 
 </div>
